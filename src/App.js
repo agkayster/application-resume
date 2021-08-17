@@ -6,7 +6,7 @@ function App() {
 			<form className='form'>
 				<figure className='zuriFig'>
 					<img
-						src='	https://internship.zuri.team/static/media/logo.36d2d48a.svg'
+						src='https://i.imgur.com/98Koa0a.png'
 						alt='brand logo'
 						class='brand-logo'></img>
 				</figure>
@@ -32,7 +32,7 @@ function App() {
 							<u>PERSONAL INFORMATION</u>
 						</h3>
 						<hr color='#32a852' />
-						<div className="paraPersonal">
+						<div className='paraPersonal'>
 							<p className='birth'>
 								Date of Birth: April 18, 1890
 							</p>
