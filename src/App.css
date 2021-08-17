@@ -1,6 +1,7 @@
 .App {
-	text-align: center;
+	/* text-align: center; */
 	overflow-x: hidden;
+	padding: 20px;
 }
 
 .App-logo {
@@ -49,6 +50,6 @@ body {
 
 li {
 	text-align: start;
-	position: relative;
-	left: 570px;
+	/* position: relative;
+	left: 570px; */
 }
