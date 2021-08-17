@@ -53,3 +53,8 @@ li {
 	/* position: relative;
 	left: 570px; */
 }
+
+.brand-logo {
+	position: relative;
+	right: 40px;
+}
