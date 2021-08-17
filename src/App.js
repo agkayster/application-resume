@@ -23,8 +23,8 @@ function App() {
 					<hr />
 					<p className='teamPara'>
 						I am seeking a team where my experience cannot only
-						improve the status of the team but also learn from each
-						member of the team as best as possible
+						improve the status of the team <br /> but also learn
+						from each member of the team as best as possible.
 					</p>
 					<hr />
 					<h3 className='personalInfo'>
@@ -86,12 +86,13 @@ function App() {
 						<p className='caytero'>Caytero Agbero High School</p>
 						<p>Obalende, Lagos</p>
 					</div>
+					<hr />
 					<h3 className='hobbies'>
 						<u>HOBBIES</u>
 					</h3>
 					<hr />
 					<div className='allHobbies'>
-						<ul className="listHobby">
+						<ul className='listHobby'>
 							<li>Football </li>
 							<li>Swimming </li>
 							<li>Reading Books </li>
