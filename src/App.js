@@ -4,6 +4,12 @@ function App() {
 	return (
 		<div className='App'>
 			<form>
+				<figure>
+					<img
+						src='	https://internship.zuri.team/static/media/logo.36d2d48a.svg'
+						alt='brand logo'
+						class='brand-logo'></img>
+				</figure>
 				<header>
 					<h1>Ejike Chiboka</h1>
 					<p>No. 8, Lekki Phase 1, Lagos</p>
@@ -20,6 +26,7 @@ function App() {
 						improve the status of the company but also automate the
 						working process to the best possible one
 					</p>
+					<hr />
 					<h3>
 						<u>PERSONAL INFORMATION</u>
 					</h3>
@@ -31,6 +38,7 @@ function App() {
 					<p>Position Desired: M.D</p>
 					<p>Civil Status: Single</p>
 					<p>Religion: Christian</p>
+					<hr />
 					<h3>
 						<u>EDUCATIONAL BACKGROUND</u>
 					</h3>
@@ -38,9 +46,15 @@ function App() {
 					<h4>
 						<u>Tertiary Education</u>
 					</h4>
-					<p>School: University of Owerri, Imo State</p>
-					<p>Degree: B-Tech, Computer Science</p>
-					<p>Year of Graduation: 2014</p>
+					<p>
+						<b>School:</b> University of Owerri, Imo State
+					</p>
+					<p>
+						<b>Degree:</b> B-Tech, Computer Science
+					</p>
+					<p>
+						<b>Year of Graduation:</b> 2014
+					</p>
 					<h4>
 						<u>Secondary Education</u>
 					</h4>
@@ -53,6 +67,7 @@ function App() {
 					<p>
 						<b>Year of Graduation:</b> 2007
 					</p>
+					<hr />
 					<h3>
 						<u>WORK EXPERIENCE</u>
 					</h3>
